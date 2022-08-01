@@ -7,7 +7,8 @@ package and then produced visuals using Tableau.
 
 ## RESULTS:
 
-•	Checkout Times for User: 
+## •	Checkout Times for User: 
+
 Most of the bikers that take bike-share tend to ride for less than an hour with the peak being at least 5 minutes – 10 minutes. This shows that most of our bikers are using the bikes to take shorter trips and they are local commuters. 
 
 
@@ -15,7 +16,8 @@ Most of the bikers that take bike-share tend to ride for less than an hour with 
 
 
 
-•	Checkout Times by Gender: 
+## •	Checkout Times by Gender: 
+
 Males are significantly higher users than the rest of the bikers. They make up most of the riders and tend to use the service more on weekdays. 
 
 
@@ -23,7 +25,8 @@ Males are significantly higher users than the rest of the bikers. They make up m
 
 
 
-•	Trips by Weekday for Each Hour:
+## •	Trips by Weekday for Each Hour:
+
 Peak periods for ridership tend to be during the morning and evening rush hour commuting periods typically between 6-10am and 5-8pm during the weekdays.  However, ridership is consistent throughout the course of the day on Saturday and Sundays.
 
 
@@ -31,7 +34,8 @@ Peak periods for ridership tend to be during the morning and evening rush hour c
 
 
 
-•	Trips by Gender (Weekday per Hour): 
+## •	Trips by Gender (Weekday per Hour): 
+
 Males are the highest users during the peak hours. For example, we have more male riders than female riders from 5pm to 8pm.
 
 
@@ -39,7 +43,8 @@ Males are the highest users during the peak hours. For example, we have more mal
 
 
 
-•	User Trips by Gender by Weekday:
+## •	User Trips by Gender by Weekday:
+
 Male users are the highest subscribers followed by female users. Male subscribers tend to use the service during the weekdays, while non-subscribers use the service during the weekends. 
 
 
@@ -49,7 +54,8 @@ Male users are the highest subscribers followed by female users. Male subscriber
 
 
 
-•	Rides per hour:
+## •	Rides per hour:
+
 Non-peak hours are between 1am – 5am. Around these times the number of rides drop to less than 20k. 
 
 
@@ -59,7 +65,8 @@ Non-peak hours are between 1am – 5am. Around these times the number of rides d
 
 
 
-•	Location per Rides:
+## •	Location per Rides:
+
 The most densely populated areas of Manhattan, especially the midtown area accounted for most rides. 
 
 <img width="1436" alt="Location Per Rides" src="https://user-images.githubusercontent.com/104735724/182066114-169517ac-27c6-4afd-bad9-8b7aa122e6ca.png">
